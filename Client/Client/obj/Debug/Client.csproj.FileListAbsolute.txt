@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\Chat\some\Client\Client\bin\Debug\Client.exe
+C:\Users\1\Desktop\Chat\some\Client\Client\bin\Debug\Client.pdb
+C:\Users\1\Desktop\Chat\some\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Chat\some\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\1\Desktop\Chat\some\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\1\Desktop\Chat\some\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Chat\some\Client\Client\obj\Debug\Client.exe
+C:\Users\1\Desktop\Chat\some\Client\Client\obj\Debug\Client.pdb
+C:\Users\1\Desktop\Chat\some\Client\Client\obj\Debug\Client.Register.resources
